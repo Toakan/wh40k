@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="b8fe-8d38-37ec-90e8" name="Imperium - Adeptus Astartes - Dark Angels" revision="229" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@Thairne" authorUrl="https://www.bsdata.net/contact" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="195" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="b8fe-8d38-37ec-90e8" name="Imperium - Adeptus Astartes - Dark Angels" revision="226" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@Thairne" authorUrl="https://www.bsdata.net/contact" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="195" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <publications>
     <publication id="b8fe-8d38-pubN65537" name="Codex: Dark Angels"/>
   </publications>
@@ -4442,7 +4442,6 @@
         <infoLink id="044e-7236-6f15-6593" name="Litanies of Hate" hidden="false" targetId="9287-78a9-f594-c601" type="profile"/>
         <infoLink id="6a0d-c08f-2638-a2bb" name="Angels of Death" hidden="false" targetId="01a4-bec8-b573-fde7" type="rule"/>
         <infoLink id="d31f-4c1f-fb47-ab19" name="Inner Circle" hidden="false" targetId="3310-6728-7053-90af" type="rule"/>
-        <infoLink id="a1fe-c6f9-f475-aa25" name="Priest" hidden="false" targetId="14d0-4b39-ffc3-eba7" type="rule"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="35c8-df69-19d8-0c85" name="New CategoryLink" hidden="false" targetId="ef18-746a-369f-43a4" primary="false"/>
@@ -4646,7 +4645,6 @@
         <infoLink id="6389-3457-66d8-6d15" name="Angels of Death" hidden="false" targetId="01a4-bec8-b573-fde7" type="rule"/>
         <infoLink id="2f53-dff6-9974-e06c" name="Teleport Strike" hidden="false" targetId="687d-8915-60b7-ac06" type="rule"/>
         <infoLink id="6fc5-ef76-87e7-4a0f" name="Inner Circle" hidden="false" targetId="3310-6728-7053-90af" type="rule"/>
-        <infoLink id="cd47-5d4c-d685-0711" name="Priest" hidden="false" targetId="14d0-4b39-ffc3-eba7" type="rule"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="eaa8-9a31-f5bf-c19d" name="New CategoryLink" hidden="false" targetId="ef18-746a-369f-43a4" primary="false"/>
@@ -4749,7 +4747,6 @@
         <infoLink id="a9d7-51f2-3c50-02a6" name="Rosarius" hidden="false" targetId="b355-bd49-c5a5-805f" type="profile"/>
         <infoLink id="a290-6fe1-fe93-a527" name="Spiritual Leaders" hidden="false" targetId="3f26-e8cb-ea53-e656" type="profile"/>
         <infoLink id="0f1b-51d0-7dbb-8155" name="Inner Circle" hidden="false" targetId="3310-6728-7053-90af" type="rule"/>
-        <infoLink id="012d-36ec-6409-9bcf" name="Priest" hidden="false" targetId="14d0-4b39-ffc3-eba7" type="rule"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="0d9f-440d-d07a-7e3a" name="New CategoryLink" hidden="false" targetId="ef18-746a-369f-43a4" primary="false"/>
@@ -4890,7 +4887,6 @@
         <infoLink id="b3bd-e2b9-8818-f71d" name="Litanies of Hate" hidden="false" targetId="9287-78a9-f594-c601" type="profile"/>
         <infoLink id="ce5d-16a6-dc3b-c2ec" name="Angels of Death" hidden="false" targetId="01a4-bec8-b573-fde7" type="rule"/>
         <infoLink id="d6ec-5c14-944c-05bf" name="Inner Circle" hidden="false" targetId="3310-6728-7053-90af" type="rule"/>
-        <infoLink id="5d1c-b824-9a4b-3217" name="Priest (Asmodai)" hidden="false" targetId="b0c4-a514-1767-1ae2" type="rule"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="8f8a-b3f5-fbb0-557d" name="New CategoryLink" hidden="false" targetId="c7b7-edbc-bc14-6238" primary="false"/>
@@ -8841,10 +8837,6 @@
       <description>If this unit has the Grim Resolve Chapter Tactic, or it has the Inheritors of the Primarch Successor Tactic, and it is using the Chapter Tactic of the Dark Angels, then: 
 • Models in this unit have a 5+ invulnerable save against ranged attacks. In your Movement phase, if this unit Remains Stationary, it loses this invulnerable save until the start of your next Movement phase.
 • Each time this unit Advances, until the start of your next turn, models in this unit have a 4+ invulnerable save against ranged attacks.</description>
-    </rule>
-    <rule id="b0c4-a514-1767-1ae2" name="Priest (Asmodai)" hidden="false">
-      <description>This model knows the Litany of Hate and two other litanies from the Litanies of Battle (see Codex: Space Marines). 
-In your Command phase, if this model is on the battlefield, it can recite one litany it knows that has not already been recited by a friendly model that battle round. Roll one D6: on a 3+, the recited litany is inspiring and takes effect until the start of your next Command phase.</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
