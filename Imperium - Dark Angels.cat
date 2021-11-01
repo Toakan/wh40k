@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="b8fe-8d38-37ec-90e8" name="Imperium - Adeptus Astartes - Dark Angels" revision="227" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@Thairne" authorUrl="https://www.bsdata.net/contact" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="195" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="b8fe-8d38-37ec-90e8" name="Imperium - Adeptus Astartes - Dark Angels" revision="228" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@Thairne" authorUrl="https://www.bsdata.net/contact" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="195" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <publications>
     <publication id="b8fe-8d38-pubN65537" name="Codex: Dark Angels"/>
   </publications>
@@ -4890,7 +4890,7 @@
         <infoLink id="b3bd-e2b9-8818-f71d" name="Litanies of Hate" hidden="false" targetId="9287-78a9-f594-c601" type="profile"/>
         <infoLink id="ce5d-16a6-dc3b-c2ec" name="Angels of Death" hidden="false" targetId="01a4-bec8-b573-fde7" type="rule"/>
         <infoLink id="d6ec-5c14-944c-05bf" name="Inner Circle" hidden="false" targetId="3310-6728-7053-90af" type="rule"/>
-        <infoLink id="5d1c-b824-9a4b-3217" name="Priest" hidden="false" targetId="14d0-4b39-ffc3-eba7" type="rule"/>
+        <infoLink id="5d1c-b824-9a4b-3217" name="Priest (Asmodai)" hidden="false" targetId="b0c4-a514-1767-1ae2" type="rule"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="8f8a-b3f5-fbb0-557d" name="New CategoryLink" hidden="false" targetId="c7b7-edbc-bc14-6238" primary="false"/>
@@ -8841,6 +8841,10 @@
       <description>If this unit has the Grim Resolve Chapter Tactic, or it has the Inheritors of the Primarch Successor Tactic, and it is using the Chapter Tactic of the Dark Angels, then: 
 • Models in this unit have a 5+ invulnerable save against ranged attacks. In your Movement phase, if this unit Remains Stationary, it loses this invulnerable save until the start of your next Movement phase.
 • Each time this unit Advances, until the start of your next turn, models in this unit have a 4+ invulnerable save against ranged attacks.</description>
+    </rule>
+    <rule id="b0c4-a514-1767-1ae2" name="Priest (Asmodai)" hidden="false">
+      <description>This model knows the Litany ofHate and two other litanies from the Litanies of Battle (see Codex: Space Marines). 
+In your Command phase, if this model is on the battlefield, it can recite one litany it knows that has not already been recited by a friendly model that battle round. Roll one D6: on a 3+, the recited litany is inspiring and takes effect until the start of your next Command phase.</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
