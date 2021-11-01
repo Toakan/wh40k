@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="b8fe-8d38-37ec-90e8" name="Imperium - Adeptus Astartes - Dark Angels" revision="228" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@Thairne" authorUrl="https://www.bsdata.net/contact" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="195" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="b8fe-8d38-37ec-90e8" name="Imperium - Adeptus Astartes - Dark Angels" revision="229" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@Thairne" authorUrl="https://www.bsdata.net/contact" library="false" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="195" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <publications>
     <publication id="b8fe-8d38-pubN65537" name="Codex: Dark Angels"/>
   </publications>
@@ -8843,7 +8843,7 @@
 • Each time this unit Advances, until the start of your next turn, models in this unit have a 4+ invulnerable save against ranged attacks.</description>
     </rule>
     <rule id="b0c4-a514-1767-1ae2" name="Priest (Asmodai)" hidden="false">
-      <description>This model knows the Litany ofHate and two other litanies from the Litanies of Battle (see Codex: Space Marines). 
+      <description>This model knows the Litany of Hate and two other litanies from the Litanies of Battle (see Codex: Space Marines). 
 In your Command phase, if this model is on the battlefield, it can recite one litany it knows that has not already been recited by a friendly model that battle round. Roll one D6: on a 3+, the recited litany is inspiring and takes effect until the start of your next Command phase.</description>
     </rule>
   </sharedRules>
