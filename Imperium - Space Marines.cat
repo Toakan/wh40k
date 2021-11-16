@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="846d-3c14-21fc-369f" name="Imperium - Space Marines" revision="264" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="Acebaur" authorUrl="https://www.bsdata.net/contact" library="true" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="195" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="846d-3c14-21fc-369f" name="Imperium - Space Marines" revision="265" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="Acebaur" authorUrl="https://www.bsdata.net/contact" library="true" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="195" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <publications>
     <publication id="846d-3c14-pubN65537" name="Index: Imperium 1 &amp; Codex: Space Marines"/>
   </publications>
@@ -24890,7 +24890,7 @@ a similar ability, then the objective marker is controlled by the player who has
       <description>During deployment, you can set up this model in a teleportarium chamber instead of placing it on the battlefield. At the end of any of your Movement phases this model can teleport into battle - set it up anywhere on the battlefield that is more than 9&quot; away from any enemy models.</description>
     </rule>
     <rule id="3bfb-047d-8eef-089e" name="Priest" hidden="false">
-      <description>This model knows the Litany of Hate and one other litanies from the Litanies of Battle (see Codex: Space Marines]. 
+      <description>This model knows the Litany of Hate and one other litanies from the Litanies of Battle (see Codex: Space Marines). 
 
 In your Command phase, if this model is on the battlefield, it can recite one litany it knows that has not already been recited by a friendly model that battle round. Roll one D6: on a 3+, the recited litany is inspiring and takes effect until the start of your next Command phase.</description>
     </rule>
