@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="846d-3c14-21fc-369f" name="Imperium - Space Marines" revision="263" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="Acebaur" authorUrl="https://www.bsdata.net/contact" library="true" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="195" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="846d-3c14-21fc-369f" name="Imperium - Space Marines" revision="265" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="Acebaur" authorUrl="https://www.bsdata.net/contact" library="true" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="195" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <publications>
     <publication id="846d-3c14-pubN65537" name="Index: Imperium 1 &amp; Codex: Space Marines"/>
   </publications>
@@ -2413,6 +2413,7 @@
         <infoLink id="5325-e2fb-fe8a-16a9" name="Angels of Death" hidden="false" targetId="01a4-bec8-b573-fde7" type="rule"/>
         <infoLink id="da57-a745-22f0-50a8" name="Spiritual Leaders" hidden="false" targetId="3f26-e8cb-ea53-e656" type="profile"/>
         <infoLink id="40ba-637d-b8c3-ca47" name="Rosarius" hidden="false" targetId="b355-bd49-c5a5-805f" type="profile"/>
+        <infoLink id="ee91-6703-8481-6614" name="Priest" hidden="false" targetId="3bfb-047d-8eef-089e" type="rule"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="e4b3-8723-50df-f554" name="New CategoryLink" hidden="false" targetId="c7b7-edbc-bc14-6238" primary="false"/>
@@ -2522,6 +2523,7 @@
         <infoLink id="e889-c32b-d7fd-7e80" name="New InfoLink" hidden="false" targetId="3f26-e8cb-ea53-e656" type="profile"/>
         <infoLink id="ddd1-c499-3768-13d8" name="Rosarius" hidden="false" targetId="b355-bd49-c5a5-805f" type="profile"/>
         <infoLink id="186f-a3cf-396e-344e" name="Teleport Strike" hidden="false" targetId="687d-8915-60b7-ac06" type="rule"/>
+        <infoLink id="67a1-8c46-40a2-3524" name="Priest" hidden="false" targetId="3bfb-047d-8eef-089e" type="rule"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="fa8f-0147-41af-3ff6" name="New CategoryLink" hidden="false" targetId="c7b7-edbc-bc14-6238" primary="false"/>
@@ -2596,6 +2598,7 @@
         <infoLink id="86f4-0c78-3f40-f586" name="New InfoLink" hidden="false" targetId="3f26-e8cb-ea53-e656" type="profile"/>
         <infoLink id="328f-7002-1849-cadd" name="New InfoLink" hidden="false" targetId="b355-bd49-c5a5-805f" type="profile"/>
         <infoLink id="12e9-74bd-5621-7eea" name="New InfoLink" hidden="false" targetId="c027-2e84-7468-0607" type="profile"/>
+        <infoLink id="83f3-78c5-acd3-2879" name="Priest" hidden="false" targetId="3bfb-047d-8eef-089e" type="rule"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="4c44-7894-25f1-4a0f" name="New CategoryLink" hidden="false" targetId="c7b7-edbc-bc14-6238" primary="false"/>
@@ -24885,6 +24888,11 @@ a similar ability, then the objective marker is controlled by the player who has
     </rule>
     <rule id="687d-8915-60b7-ac06" name="Teleport Strike" hidden="false">
       <description>During deployment, you can set up this model in a teleportarium chamber instead of placing it on the battlefield. At the end of any of your Movement phases this model can teleport into battle - set it up anywhere on the battlefield that is more than 9&quot; away from any enemy models.</description>
+    </rule>
+    <rule id="3bfb-047d-8eef-089e" name="Priest" hidden="false">
+      <description>This model knows the Litany of Hate and one other litanies from the Litanies of Battle (see Codex: Space Marines). 
+
+In your Command phase, if this model is on the battlefield, it can recite one litany it knows that has not already been recited by a friendly model that battle round. Roll one D6: on a 3+, the recited litany is inspiring and takes effect until the start of your next Command phase.</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
